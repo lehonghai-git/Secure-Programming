@@ -1,8 +1,0 @@
-﻿  main.cpp
-c:\users\hai\desktop\secure programming\2.input.validation\main.cpp(218): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\hai\desktop\secure programming\2.input.validation\main.cpp(234): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-c:\users\hai\desktop\secure programming\2.input.validation\main.cpp(238): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\hai\desktop\secure programming\2.input.validation\main.cpp(255): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-c:\users\hai\desktop\secure programming\2.input.validation\main.cpp(262): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  2.Input.Validation.vcxproj -> C:\Users\Hai\Desktop\Secure Programming\x64\Debug\2.Input.Validation.exe
-  2.Input.Validation.vcxproj -> C:\Users\Hai\Desktop\Secure Programming\x64\Debug\2.Input.Validation.pdb (Partial PDB)

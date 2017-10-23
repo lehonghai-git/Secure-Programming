@@ -33,7 +33,7 @@ int main()
 	cout << "You chose name: " << oName << endl;
 #endif // 1 // Program 1
 
-#if 0 // Program 2
+#if 1 // Program 2
 	string strGia, strSoLuong;
 	bool flag1 = false, flag2 = false;
 
